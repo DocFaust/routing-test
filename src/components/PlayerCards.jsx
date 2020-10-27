@@ -1,6 +1,6 @@
 import React from "react";
 import PlayerCard from "./PlayerCard";
-import { Row, Col, Container } from "react-bootstrap";
+import { Row, Col } from "react-bootstrap";
 
 const PlayerCards = ({ data, editHandler }) => {
   return (
